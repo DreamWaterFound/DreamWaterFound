@@ -14,3 +14,12 @@ Hi I am Guoqing Liu, a postgraduates from Northeast University, Shenyang, China.
 
 </td></tr></table>
 
+<div style="margin:0 auto; height:auto;">
+
+<p style="text-align: center;"> 
+    <img src="./img/owl.gif" alt="owl" height=100 /> </br>
+    Gugu ~~~ 
+</p>
+
+
+</div>
