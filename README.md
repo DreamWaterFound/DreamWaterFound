@@ -1,6 +1,6 @@
 ### Hi! 👏
 
-![](https://img.shields.io/badge/QQ-1337841346-green.svg) ![](https://img.shields.io/badge/WeChat-Green2_0-green.svg) [![Blog Badge](https://img.shields.io/badge/zhihu-刘国庆-brightgreen)](https://www.zhihu.com/people/liu-guo-qing-76) [![Mail Badge](https://img.shields.io/badge/-guoqing2017@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ethan.li.whu@gmail.com)](mailto:guoqing2017@gmail.com)
+![](https://img.shields.io/badge/QQ-1337841346-green.svg) ![](https://img.shields.io/badge/WeChat-Green2_0-green.svg) [![Blog Badge](https://img.shields.io/badge/zhihu-刘国庆-brightgreen)](https://www.zhihu.com/people/liu-guo-qing-76) [![Mail Badge](https://img.shields.io/badge/-guoqing_liu@sjtu.edu.cn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ethan.li.whu@gmail.com)](mailto:guoqing2017@gmail.com)
 
 Hi I am Guoqing Liu, a postgraduates from Northeast University, Shenyang, China. Now I am studying in Visual SLAM under dynamic environments and dealing with mutlti object tracking problem, which I think it's a interesting branch about VSLAM. I am also interested in Compute Graphics, FPGA applications. :D
 
